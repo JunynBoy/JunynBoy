@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC, estou muito animado com meu estudo, e um dia sonho em me tornar programador full-stack, todo conhecimento que adquirido será transformado em um repositório aqui nesse github.
+    Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC, estou muito animado com meu estudo, e um dia sonho em me tornar programador full-stack, todo conhecimento adquirido será transformado em um repositório aqui nesse github.
     </a>  
   </p>
 
@@ -34,6 +34,5 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
