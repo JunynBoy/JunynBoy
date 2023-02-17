@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Olá! Meu nome é <a href="https://www.linkedin.com/in/marcos-gasparini-97624a218/">Marcos Gasparini😃️</a>
+    Olá! Meu nome é <a href="https://junynboy.github.io/JunynBoy/">Marcos Gasparini😃️</a>
   </h1>
   <p>
     Estou estudando Análise e Desenvolvimento de Sistemas na FATEC, e sou apaixonado por programação. Meu objetivo é me tornar um programador Java Full-stack e compartilhar meus conhecimentos através deste repositório no GitHub.
